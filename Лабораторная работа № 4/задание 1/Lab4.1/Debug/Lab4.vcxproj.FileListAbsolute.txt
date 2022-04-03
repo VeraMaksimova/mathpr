@@ -1,0 +1,8 @@
+D:\4sem\MP\Labs\Lab4\Lab4\Debug\Lab4.exe
+D:\4sem\MP\Labs\Lab4\Lab4\Debug\Lab4.pdb
+D:\4sem\MP\Labs\Lab4\Lab4.1\Debug\Lab4.exe
+D:\4sem\MP\Labs\Lab4\Lab4.1\Debug\Lab4.pdb
+D:\Учеба\МП\Примеры\Lab4\Lab4.1\Debug\Lab4.exe
+D:\Учеба\МП\ЛР №4\Lab4.1\Debug\Lab4.exe
+D:\2 курс 2 сем\МП\лаба лаба\ЛР №4\ЛР №4\Lab4.1\Debug\Lab4.exe
+D:\2 курс 2 сем\МП\Лабораторная работа № 4\задание 1\Lab4.1\Debug\Lab4.exe
